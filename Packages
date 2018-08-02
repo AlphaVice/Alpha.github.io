@@ -1,14 +1,14 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: (com.AlphaVice.NoDotsX)
+Name: NoDotsX 
+Version: 1.0
+Size: 808
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
+Description: None of that page dot shit around here
+Maintainer:  <email@provider.com>
+Author: AlphaVice <email@provider.com>
+Section: 
 MD5sum:
 SHA1sum:
 SHA256sum:
-Filename: debs//(Tweak Name).deb
+Filename: debs//NoDotsX.deb
 
